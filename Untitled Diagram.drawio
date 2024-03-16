@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T05:12:36.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="LLz6vATbK8RyjVG8cGLA" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-16T14:14:05.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="vdTAYMTxw-pD7Gmq80ZD" version="24.0.7" type="github" pages="2">
   <diagram name="Page-1" id="4yYHArnrtynO087Kgy8o">
-    <mxGraphModel dx="1092" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,12 @@
         </mxCell>
         <mxCell id="edjWUa_VjWjp11sONtuQ-1" value="DB instance&#xa;standby" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.db_instance_standby;" parent="1" vertex="1">
           <mxGeometry x="368" y="272" width="222" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="MyD3jom91IR0AbVZu7Pq-1" value="Run&#xa;command" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.run_command;" vertex="1" parent="1">
+          <mxGeometry x="-538" y="245" width="137" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="MyD3jom91IR0AbVZu7Pq-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-188" y="179" width="137.8" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
